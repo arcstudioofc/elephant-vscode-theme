@@ -1,0 +1,37 @@
+{
+	"name": "elephant-theme",
+	"displayName": "Elephant Theme",
+	"description": "Dark theme inspired by Elephant.js",
+	"version": "0.1.0",
+	"publisher": "yeytaken",
+	"files": [
+		"themes/**",
+		"README.md",
+		"LICENSE",
+		"icon.png"
+	],
+	"engines": {
+		"vscode": "^1.81.0"
+	},
+	"icon": "favicon.ico",
+	"categories": [
+		"Themes"
+	],
+	"repository": {
+		"url": "https://github.com/arcstudioofc/elephant.js"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Elephant",
+				"uiTheme": "vs-dark",
+				"path": "./themes/elephant-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"installedTimestamp": 1766152387759,
+		"targetPlatform": "undefined",
+		"size": 892685
+	}
+}
