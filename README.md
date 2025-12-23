@@ -22,7 +22,12 @@ Built to look good **and** feel good after hours of coding.
 
 ## 🎨 Screenshots
 Good screenshots:
-![Elephant Theme Preview](./screenshots/editor.png)
+
+### Default Dark
+![Elephant Theme Default Dark](https://raw.githubusercontent.com/arcstudioofc/elephant-vscode-theme/refs/heads/main/screenshots/code_default_dark.png)
+
+### Dark Plus
+![Elephant Theme Default Dark](https://raw.githubusercontent.com/arcstudioofc/elephant-vscode-theme/refs/heads/main/screenshots/code_dark_plus.png)
 
 * Editor with TypeScript / React
 * Sidebar + tabs
@@ -76,20 +81,6 @@ Elephant Theme is optimized for:
 * Git (added / modified / deleted / ignored)
 
 Other languages will still look great thanks to semantic highlighting.
-
----
-
-## 🎯 Design Philosophy
-
-Elephant Theme focuses on:
-
-* **Clarity over decoration**
-* **Consistent hierarchy**
-* **Minimal distractions**
-* **Blue as the main accent**
-* **Pastel saturation for comfort**
-
-No neon. No noise. Just readable code.
 
 ---
 

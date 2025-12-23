@@ -2,7 +2,7 @@
 	"name": "elephant-theme",
 	"displayName": "Elephant Theme",
 	"description": "Dark theme inspired by Elephant.js",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"publisher": "yeytaken",
 	"files": [
 		"themes/**",
@@ -23,9 +23,14 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Elephant",
+				"label": "Elephant Default Dark",
 				"uiTheme": "vs-dark",
-				"path": "./themes/elephant-color-theme.json"
+				"path": "./themes/elephant-default-dark-color-theme.json"
+			},
+			{
+				"label": "Elephant Dark Plus",
+				"uiTheme": "vs-dark",
+				"path": "./themes/elephant-dark-plus-color-theme.json"
 			}
 		]
 	},
