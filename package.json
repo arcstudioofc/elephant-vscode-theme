@@ -2,14 +2,16 @@
 	"name": "elephant-theme",
 	"displayName": "Elephant Theme",
 	"description": "Dark theme inspired by Elephant.js",
-	"version": "0.2.1",
+	"version": "0.2.2",
 	"publisher": "yeytaken",
 	"scripts": {
 		"publish": "npx vsce publish"
 	},
 	"files": [
+		"screenshots/**",
 		"themes/**",
 		"README.md",
+		"CHANGELOG.md",
 		"LICENSE",
 		"icon.png"
 	],

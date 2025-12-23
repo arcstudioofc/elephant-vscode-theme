@@ -2,6 +2,10 @@
 ## 📦 Changelog
 
 
+### 0.2.2
+
+* Archive screenshot added
+
 ### 0.2.1
 
 * Bugs review
